@@ -1,0 +1,5 @@
+https://volta.sh/
+volta pin node yarn --> we make sure that we are in the correct node and tarn version
+npx gitignore node --> it creates a gitignore file
+yarn tsc --init
+yarn eslint --init
